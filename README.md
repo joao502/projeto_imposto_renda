@@ -45,3 +45,11 @@ Na aba **INFORMES**, ao clicar nas células de anexo (`D13`, `D18` e `D23`), a m
 1. Abre o explorador de arquivos filtrado para **PDF**
 2. Pega o caminho do arquivo escolhido
 3. Escreve o **nome do arquivo** na própria célula, como **hiperlink** que abre o documento original
+
+<img width="987" height="542" alt="image" src="https://github.com/user-attachments/assets/51506f65-d606-40d7-8180-d5a6604f5da7" />
+<img width="1042" height="643" alt="image" src="https://github.com/user-attachments/assets/ffd22990-18d7-42b3-bb6b-33b60d31a288" />
+<img width="1168" height="618" alt="image" src="https://github.com/user-attachments/assets/a145c374-a5b7-4219-b104-d5a746316ef2" />
+
+
+
+
